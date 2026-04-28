@@ -105,12 +105,12 @@ Interact with content in real-time
 * Demiana Morice
 
 ---
-⭐ Future Improvements
-🎮 Add user interaction with models (rotate / zoom)
-🌐 Add more languages
-🧍 Add full animated characters instead of static models
-☁️ Move assets to cloud for faster loading
-🧠 Add voice interaction (user asks → character responds)
+## ⭐ Future Improvements
+* 🎮 Add user interaction with models (rotate / zoom)
+* 🌐 Add more languages
+* 🧍 Add full animated characters instead of static models
+* ☁️ Move assets to cloud for faster loading
+* 🧠 Add voice interaction (user asks → character responds)
 
 ## ⭐ Notes
 
