@@ -5,22 +5,22 @@ An Augmented Reality (AR) mobile application that brings Ancient Egyptian histor
 ---
 
 ## 📱 Features
-🎥 Play educational videos on real-world image targets
-🗿 Display interactive 3D models of famous Egyptian figures
-🌍 Switch between Arabic 🇪🇬 and English 🇬🇧 languages
-🧠 AI-powered talking statues (lip-synced narration)
-📷 Real-time AR camera interaction
-🎯 Image Target Recognition using Vuforia
+* 🎥 Play educational videos on real-world image targets
+* 🗿 Display interactive 3D models of famous Egyptian figures
+* 🌍 Switch between Arabic 🇪🇬 and English 🇬🇧 languages
+* 🧠 AI-powered talking statues (lip-synced narration)
+* 📷 Real-time AR camera interaction
+* 🎯 Image Target Recognition using Vuforia
 
 ---
 
-🤖 AI Integration
+## 🤖 AI Integration
 
 One of the unique aspects of this project is the use of AI-generated videos:
 
-🎙️ Historical characters "speak" using realistic voice narration
-🗣️ Lip-sync animation created using HeyGen
-🎬 Videos are mapped to AR targets to simulate real interaction
+* 🎙️ Historical characters "speak" using realistic voice narration
+* 🗣️ Lip-sync animation created using HeyGen
+* 🎬 Videos are mapped to AR targets to simulate real interaction
 
 This creates a more immersive storytelling experience for users.
 
