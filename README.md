@@ -30,8 +30,8 @@ An Augmented Reality (AR) mobile application that brings Ancient Egyptian histor
 
 ## 📸 Screenshots
 
-![Uploading Screenshot 2026-04-28 002925.png…]()
-<img width="707" height="992" alt="Screenshot 2026-04-28 002352" src="https://github.com/user-attachments/assets/add900c0-2a29-4671-9a9c-634d4245eba1" />
+<img width="632" height="981" alt="Screenshot 2026-04-28 002925" src="https://github.com/user-attachments/assets/1ee4235b-79d4-4a33-91c0-638310253ede" />
+<img width="707" height="992" alt="Screenshot 2026-04-28 002352" src="https://github.com/user-attachments/assets/571f8807-5414-43ac-89c3-633d46400f94" />
 
 ### AR Experience
 
