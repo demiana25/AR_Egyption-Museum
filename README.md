@@ -4,21 +4,32 @@ An Augmented Reality (AR) mobile application that brings Ancient Egyptian histor
 
 ---
 
-## 📱 Features
-
-* 🎥 Play educational videos on real-world image targets
-* 🗿 Display 3D models of famous Egyptian figures
-* 🌍 Switch between Arabic 🇪🇬 and English 🇬🇧 languages
-* 📷 Real-time AR camera interaction
-* 🎯 Image Target Recognition using Vuforia
+📱 Features
+🎥 Play educational videos on real-world image targets
+🗿 Display interactive 3D models of famous Egyptian figures
+🌍 Switch between Arabic 🇪🇬 and English 🇬🇧 languages
+🧠 AI-powered talking statues (lip-synced narration)
+📷 Real-time AR camera interaction
+🎯 Image Target Recognition using Vuforia
 
 ---
+
+🤖 AI Integration
+
+One of the unique aspects of this project is the use of AI-generated videos:
+
+🎙️ Historical characters "speak" using realistic voice narration
+🗣️ Lip-sync animation created using HeyGen
+🎬 Videos are mapped to AR targets to simulate real interaction
+
+This creates a more immersive storytelling experience for users.
 
 ## 🛠️ Technologies Used
 
 * Unity Engine
 * Vuforia SDK
 * C#
+* AI Video Tools (HeyGen)
 
 ---
 
@@ -72,10 +83,15 @@ Packages/
 
 ---
 
-## 💡 Project Idea
+💡 Project Idea
 
-This project aims to make learning Ancient Egyptian history more interactive and engaging by using Augmented Reality technology.
-Users can scan images and instantly see 3D models and videos explaining historical figures and artifacts.
+This project aims to make learning Ancient Egyptian history more interactive and engaging using AR and AI technologies.
+
+Instead of traditional learning, users can:
+
+See historical figures in 3D
+Watch them speak
+Interact with content in real-time
 
 ---
 
@@ -88,6 +104,12 @@ Users can scan images and instantly see 3D models and videos explaining historic
 * Demiana Morice
 
 ---
+⭐ Future Improvements
+🎮 Add user interaction with models (rotate / zoom)
+🌐 Add more languages
+🧍 Add full animated characters instead of static models
+☁️ Move assets to cloud for faster loading
+🧠 Add voice interaction (user asks → character responds)
 
 ## ⭐ Notes
 
