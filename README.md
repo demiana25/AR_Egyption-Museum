@@ -79,13 +79,13 @@ Users can scan images and instantly see 3D models and videos explaining historic
 
 ---
 
-## 👨‍💻 Author
+## 👥 Team
 
-Abram Anwar
-Kyrillos Elia
-Demiana Morice 
-Mariem Hamdy
-Farah Mohamed
+* Kyrillos Elia
+* Abram Anwer
+* Farah Mohammed
+* Mariem Hamdy
+* Demiana Morice
 
 ---
 
