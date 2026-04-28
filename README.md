@@ -4,7 +4,7 @@ An Augmented Reality (AR) mobile application that brings Ancient Egyptian histor
 
 ---
 
-📱 Features
+## 📱 Features
 🎥 Play educational videos on real-world image targets
 🗿 Display interactive 3D models of famous Egyptian figures
 🌍 Switch between Arabic 🇪🇬 and English 🇬🇧 languages
@@ -24,6 +24,7 @@ One of the unique aspects of this project is the use of AI-generated videos:
 
 This creates a more immersive storytelling experience for users.
 
+---
 ## 🛠️ Technologies Used
 
 * Unity Engine
