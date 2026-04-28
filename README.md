@@ -48,7 +48,7 @@ https://skfb.ly/6QSL9
 1. Clone the repository:
 
 ```
-git clone https://github.com/Abram-An/AR-Egyptian-Museum.git
+git clone https://github.com/demiana25/AR_Egyption-Museum.git
 ```
 
 2. Open the project in Unity
@@ -93,6 +93,6 @@ Farah Mohamed
 
 * Large files (videos & heavy models) are not included in this repository
 * You can find the demo video in the link above
-* Designed as a student project for AR learning
+* Designed as a student project  at Ain Shams University Fculty of Science Computer Science Department for AR learning
 
 ---
